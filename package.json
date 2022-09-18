@@ -1,0 +1,29 @@
+{
+  "name": "caspian-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@fontsource/poppins": "^4.5.9",
+    "@nextui-org/react": "1.0.0-beta.10",
+    "next": "12.3.0",
+    "next-seo": "^5.5.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-hot-toast": "^2.4.0"
+  },
+  "devDependencies": {
+    "@types/node": "18.7.18",
+    "@types/react": "18.0.20",
+    "@types/react-dom": "18.0.6",
+    "eslint": "8.23.1",
+    "eslint-config-next": "12.3.0",
+    "prettier": "^2.7.1",
+    "typescript": "4.8.3"
+  }
+}
