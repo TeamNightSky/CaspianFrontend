@@ -1,7 +1,7 @@
-import { createTheme } from "@nextui-org/react"
+import { createTheme } from '@nextui-org/react';
 
 const config = {
-    type: 'dark'
+  type: 'dark'
 };
 
 export default createTheme(config);

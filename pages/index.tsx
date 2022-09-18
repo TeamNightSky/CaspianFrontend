@@ -1,5 +1,5 @@
-import { useState } from "react";
-import { Button, Text } from "@nextui-org/react";
+import { useState } from 'react';
+import { Button, Text } from '@nextui-org/react';
 
 const Home = () => {
   const [count, setCount] = useState<number>(0);
@@ -13,7 +13,7 @@ const Home = () => {
         h1
         size={60}
         css={{
-          textGradient: "45deg, $yellow600 -20%, $red600 100%",
+          textGradient: '45deg, $yellow600 -20%, $red600 100%'
         }}
         weight="bold"
       >

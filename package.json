@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "format": "prettier --write \"./**/*.{ts,tsx,md,json}\""
   },
   "dependencies": {
     "@fontsource/poppins": "^4.5.9",
